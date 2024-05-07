@@ -11,7 +11,7 @@ Dataset source: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fra
 
 Features of the dataset (columns):
     id:     Unique identifier for each transaction
-    V1-V28: Anonymized features representing various transaction attributes (e.g., time, location, etc.)
+    V1-V28: Anonymised features representing various transaction attributes (e.g., time, location, etc.)
     Amount: The transaction amount
     Class:  Binary label indicating whether the transaction is fraudulent (1) or not (0)
 
