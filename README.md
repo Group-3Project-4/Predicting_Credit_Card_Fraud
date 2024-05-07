@@ -15,6 +15,8 @@ Features of the dataset (columns):
     Amount: The transaction amount
     Class:  Binary label indicating whether the transaction is fraudulent (1) or not (0)
 
+Link for initial data download: https://drive.google.com/file/d/1erGe3UGlc7TjqQ8iwNN_elZ9VP2bTmXz/view?usp=sharing
+
 ![alt text](ccf.jpg)
 
 
