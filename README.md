@@ -30,7 +30,7 @@ Utilising Python Notebook, the data cleaning procedure was executed. Non-float v
 
 # Model Implementation and Optimisation
 
-# Model 1 - Logostoc Regression
+# Model 1 - Logistoc Regression
 Following the comprehensive data cleaning phase, our focus shifted towards the development and optimisation of a supervised learning model. For our initial model build, we chose Logistic Regression due to its aptitude for binary classification tasks, a characteristic fitting for transactions typically classified as either fraudulent or legitimate. Moreover, Logistic Regression's ability to scale efficiently to large datasets made it an appealing choice for our analysis.
 
 This iterative process involved fine-tuning of model parameters and evaluation of performance metrics to achieve optimal predictive capabilities. To our delight, the accuracy of this model surpassed our expectations, achieving an impressive accuracy rate of 99.84%. Subsequent attempts at further optimisation yielded identical results, solidifying the robustness of our approach.
