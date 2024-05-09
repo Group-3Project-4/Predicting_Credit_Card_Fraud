@@ -30,7 +30,7 @@ Utilising Python Notebook, the data cleaning procedure was executed. Non-float v
 
 # Model Implementation and Optimisation
 
-# Model 1 - Logistoc Regression
+# Model 1 - Logistic Regression
 Following the comprehensive data cleaning phase, our focus shifted towards the development and optimisation of a supervised learning model. For our initial model build, we chose Logistic Regression due to its aptitude for binary classification tasks, a characteristic fitting for transactions typically classified as either fraudulent or legitimate. Moreover, Logistic Regression's ability to scale efficiently to large datasets made it an appealing choice for our analysis.
 
 This iterative process involved fine-tuning of model parameters and evaluation of performance metrics to achieve optimal predictive capabilities. To our delight, the accuracy of this model surpassed our expectations, achieving an impressive accuracy rate of 99.84%. Subsequent attempts at further optimisation yielded identical results, solidifying the robustness of our approach.
@@ -42,7 +42,7 @@ After achieving remarkable success with Logistic Regression, boasting an impress
 
 With the accuracy and predictability climbing close to 100% we decided to try another model build using Random Forest.
 
-# Model 3 - Random Forrest
+# Model 3 - Random Forest
 For our final model build we opted for Random Forest as our preferred method for credit card fraud detection due to its exceptional accuracy and several advantageous characteristics. Random Forest's ability to combine multiple decision trees, handle complex data relationships, identify important features, scale to large datasets, and handle imbalanced data made it a natural choice for our task. Analysts also favored Random Forest for its proven track record of accuracy and reliability in fraud detection tasks. After thorough experimentation and parameter tuning, our Random Forest model surpassed expectations, achieving an outstanding accuracy rate of 99.97%. This exceptional performance underscores the effectiveness of Random Forest as the most reliable method for detecting fraudulent credit card transactions with unparalleled precision and reliability.
 
 # Conclusion
