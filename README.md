@@ -23,7 +23,7 @@ Link for initial data download: https://drive.google.com/file/d/1erGe3UGlc7TjqQ8
 
 
 # Importing the Data
-Data importation was conducted systematically by constructing a connection string and creating a SQLAlchemy engine. This ensured a robust and efficient process for accessing the dataset.
+Data importation was conducted systematically by constructing a connection string and creating a psycopg2 engine. This ensured a robust and efficient process for accessing the dataset.
 
 
 # Data Cleaning
