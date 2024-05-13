@@ -25,6 +25,8 @@ Link for initial data download: https://drive.google.com/file/d/1erGe3UGlc7TjqQ8
 # Importing the Data
 Data importation was conducted systematically by constructing a connection string and creating a psycopg2 engine. This ensured a robust and efficient process for accessing the dataset.
 
+Data can be imported into SQL manually using PGAdmin.
+
 
 # Data Cleaning
 Utilising Python Notebook, the data cleaning procedure was executed. Non-float values were accurately converted to NaN, and subsequently, all rows containing NaN values were systematically removed. This cleaning process ensured the elimination of any anomalies present in the dataset, thereby enhancing its integrity and reliability.
